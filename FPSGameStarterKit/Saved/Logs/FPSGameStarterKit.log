@@ -627,3 +627,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.08.24-13.42.09:371][  0]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2019.08.24-13.42.23:445][ 78]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2019.08.24-13.42.24:793][239]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.24-13.43.54:522][660]LogSlate: Window 'Source Control Login' being destroyed
+[2019.08.24-13.44.00:036][317]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.24-13.44.09:502][786]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (16.462 sec). This should never happen. Something is wrong with the timer delegate!
